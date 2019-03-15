@@ -1,9 +1,9 @@
 ---
 title: Scott Morken
 ---
-### About
+# About
 
-I have significant experience in several programming languages and technologies.
+I am currently a computer programmer with Natural Resources Canada, and I have been there for over 12 years. I strive to learn every day and I have built up significant experience in several programming languages and technologies.
 
 ## Python 
 
@@ -21,6 +21,7 @@ I have significant experience in several programming languages and technologies.
 ## C/C++
 
 * Maintainer of a scientific computing application written in C++
+* Work in newer generation scientific application with more modern C++ version (C++11)
 
 ## Databases/ORM
 
@@ -28,7 +29,8 @@ I have significant experience in several programming languages and technologies.
 
 ## R
 
-Experience in debugging and writing R code integrated with C++ (using RCpp) for prototyping new version of scientific computing platform.
+* Experience in debugging and writing R code
+* Prototyping new version of scientific computing platform using C++ and R integrated with the RCpp package
  
 ## Language Interoperability
 
@@ -42,6 +44,7 @@ I also have experience with low level code interoperability
  * I am currently learning Golang and Javascript with a side [project](https://github.com/smorken/freerange)
  * Experienced with dependecy injection and test driven development design patterns
  * Slowly evolving from object oriented to functional programming, but still use both
+ * GIS: basic experience with Vector and Raster datasets, and their manipulation in R, C# and Python
  
 ### Examples of work
 
