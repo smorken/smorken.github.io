@@ -9,13 +9,14 @@ I am currently a computer programmer with Natural Resources Canada, and I have b
 
 * I have over 10 years as a python scripter
 * I have worked on projects ranging from ad hoc scripting to larger scale python applications and packages
-* Experience using C/C++ interop via ctypes, numpy, pandas matplotlib
+* Experience using C/C++ interop via ctypes, numpy, pandas, matplotlib, jupyter, and many other packages
 
 ## C# and VB.Net 
 
-* Over tens years as primary maintainer of a large scale C#/VB.net windows forms applications
+* Over tens years as maintainer/developer of a large scale C#/VB.net windows forms applications: [Operational-scale CBM-CFS3](https://www.nrcan.gc.ca/forests/climate-change/carbon-accounting/13107)
+* Significant experience with localization
 * Dependency injection pattern and test driven development
-* Gained experience lately using the MVVM design pattern and windows presentation foundation (WPF) in C#
+* Gained significant experience lately using the MVVM design pattern and windows presentation foundation (WPF) in C#
 * Advanced C# programming topics: Linq, Reflection, Multithreading
 
 ## C/C++
@@ -45,9 +46,15 @@ I also have experience with low level code interoperability
  * Experienced with dependecy injection and test driven development design patterns
  * Slowly evolving from object oriented to functional programming, but still use both
  * GIS: basic experience with Vector and Raster datasets, and their manipulation in R, C# and Python
+ * Amazon web services: basic administration, and work with EC2 and S3 services.
+ 
  
 ### Examples of work
 
 [awsbootstrapper](https://github.com/smorken/awsbootstrapper) is a minimalist set of scripts for launching AWS compute clusters and managing upload and download of input and output.  It uses the python boto3 package to interface with AWS EC2 and S3 services.  It has been used at my workplace for multiple years of large scale monte carlo/uncertainty simulations.
 
 [freerange](https://github.com/smorken/freerange) is a hobby/side project, primarily for learning javascript, golang and full stack development in general.
+
+[cbm3_python](https://github.com/cat-cfs/cbm3_python) is a python package for automating *Operational-Scale CBM-CFS3* simulation and other functions
+
+[StandardImportToolPlugin](https://github.com/cat-cfs/StandardImportToolPlugin) C# application for commandline *Operational-Scale CBM-CFS3* project creation.
