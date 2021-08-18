@@ -7,7 +7,10 @@ I am scientific support programmer with Natural Resources Canada for over 15 yea
 
 {% include links.html %}
 
-
+```
+<a href="{{ site.data.links.email.href }}{{ site.data.links.email.id }}" title="Email">Click here to send me an email!</a>
+  
+```
 
 ## Technologies
 
