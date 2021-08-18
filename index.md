@@ -5,7 +5,7 @@ title: Scott Morken
 
 I am scientific support programmer with Natural Resources Canada for over 15 years. I strive to learn every day and I have built up significant experience in several programming languages and technologies.  I am able to learn new packages and frameworks rapidly.  
 
-{% include social-media-links.html %}
+{% include links.html %}
 
 
 
